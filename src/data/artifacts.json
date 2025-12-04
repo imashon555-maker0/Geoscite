@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Stonehenge",
+    "coordinates": [51.1789, -1.8262],
+    "era": "Neolithic",
+    "description": "A prehistoric monument consisting of a ring of standing stones in England.",
+    "photo": "https://example.com/stonehenge.jpg",
+    "history": "Stonehenge was built around 3000 BC in the late Neolithic period, serving as a ceremonial or astronomical site."
+  },
+  {
+    "id": 2,
+    "name": "Machu Picchu",
+    "coordinates": [-13.1631, -72.5450],
+    "era": "Inca",
+    "description": "An ancient Inca citadel in the Andes Mountains of Peru.",
+    "photo": "https://example.com/machu-picchu.jpg",
+    "history": "Machu Picchu was built in the 15th century as a royal estate and religious retreat for the Inca emperor Pachacuti."
+  },
+  {
+    "id": 3,
+    "name": "Pyramids of Giza",
+    "coordinates": [29.9792, 31.1342],
+    "era": "Ancient Egyptian",
+    "description": "The Great Pyramid and its complex in Egypt.",
+    "photo": "https://example.com/giza.jpg",
+    "history": "The pyramids were built as tombs for the pharaohs around 2580–2565 BC during the Fourth Dynasty."
+  }
+]

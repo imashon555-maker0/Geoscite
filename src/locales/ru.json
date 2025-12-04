@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "Главная",
+    "search": "Поиск",
+    "map": "Карта",
+    "quiz": "Путь викторины",
+    "games": "Игры",
+    "settings": "Настройки"
+  },
+  "welcome": "Добро пожаловать в Geoscite",
+  "language": "Язык",
+  "selectLanguage": "Выберите язык"
+}

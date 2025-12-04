@@ -1,0 +1,21 @@
+[
+  {
+    "level": 1,
+    "title": "Basic Archaeology",
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "What era is Stonehenge from?",
+        "options": ["Neolithic", "Bronze Age", "Roman", "Viking"],
+        "correct": "Neolithic"
+      },
+      {
+        "id": 2,
+        "type": "text-input",
+        "question": "In which country is Machu Picchu located?",
+        "correct": "Peru"
+      }
+    ]
+  }
+]

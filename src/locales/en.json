@@ -1,0 +1,13 @@
+{
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "map": "Map",
+    "quiz": "Quiz Road",
+    "games": "Games",
+    "settings": "Settings"
+  },
+  "welcome": "Welcome to Geoscite",
+  "language": "Language",
+  "selectLanguage": "Select Language"
+}
