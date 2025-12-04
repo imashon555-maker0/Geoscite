@@ -2,6 +2,7 @@
   {
     "level": 1,
     "title": "Basic Archaeology",
+    "points": 10,
     "questions": [
       {
         "id": 1,
@@ -15,6 +16,87 @@
         "type": "text-input",
         "question": "In which country is Machu Picchu located?",
         "correct": "Peru"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "What ancient civilization built the Pyramids of Giza?",
+        "options": ["Ancient Egyptians", "Romans", "Greeks", "Mayans"],
+        "correct": "Ancient Egyptians"
+      }
+    ]
+  },
+  {
+    "level": 2,
+    "title": "Intermediate Archaeology",
+    "points": 15,
+    "questions": [
+      {
+        "id": 1,
+        "type": "multiple-choice",
+        "question": "The ancient city of Troy was located in what modern country?",
+        "options": ["Greece", "Turkey", "Italy", "Egypt"],
+        "correct": "Turkey"
+      },
+      {
+        "id": 2,
+        "type": "text-input",
+        "question": "What is the period from 2.5 million to 10,000 BC called?",
+        "correct": "Stone Age"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "Which artifact is often associated with the Minoan civilization?",
+        "options": ["Hieroglyphs", "Linear B script", "Bull-leaping frescoes", "Totem poles"],
+        "correct": "Bull-leaping frescoes"
+      },
+      {
+        "id": 4,
+        "type": "multiple-choice",
+        "question": "The largest pyramid in Egypt is the Pyramid of?",
+        "options": ["Khufu", "Kafre", "Menkaura", "Userkaf"],
+        "correct": "Khufu"
+      }
+    ]
+  },
+  {
+    "level": 3,
+    "title": "Advanced Archaeology",
+    "points": 20,
+    "questions": [
+      {
+        "id": 1,
+        "type": "text-input",
+        "question": "What famous archaeological method is used to determine the age of organic materials?",
+        "correct": "Carbon dating"
+      },
+      {
+        "id": 2,
+        "type": "multiple-choice",
+        "question": "Stratigraphy refers to the study of?",
+        "options": ["Rock formations", "Time periods in history", "Layers in archaeological sites", "Ancient languages"],
+        "correct": "Layers in archaeological sites"
+      },
+      {
+        "id": 3,
+        "type": "multiple-choice",
+        "question": "Which city is considered the oldest continuously inhabited city in the world?",
+        "options": ["Rome", "Athens", "Jerusalem", "Alexandria"],
+        "correct": "Jerusalem"
+      },
+      {
+        "id": 4,
+        "type": "text-input",
+        "question": "What term describes the process of reconstructing past societies from archaeological evidence?",
+        "correct": "Reconstruction"
+      },
+      {
+        "id": 5,
+        "type": "multiple-choice",
+        "question": "The UNESCO World Heritage site of Petra is located in which country?",
+        "options": ["Jordan", "Saudi Arabia", "Syria", "Lebanon"],
+        "correct": "Jordan"
       }
     ]
   }
